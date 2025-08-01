@@ -50,14 +50,3 @@ This project is version-controlled using Git, and all changes are committed step
 You're reading this on the main repository.
 
 ---
-
-## 🛠️ How to Run
-
-Make sure you have Python 3.8+ installed.  
-Clone the repo and run the files:
-
-```bash
-git clone https://github.com/yourusername/software-intern-challenge.git
-cd software-intern-challenge
-python challenge.py
-
